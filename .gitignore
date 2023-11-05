@@ -1,0 +1,15 @@
+*~
+.DS_Store
+.svn
+.cvs
+*.bak
+*.swp
+Thumbs.db
+nbproject/
+
+# wordpress specific
+.idea/
+node_modules/
+dist/
+vendor/
+.cache/
