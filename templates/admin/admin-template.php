@@ -7,7 +7,7 @@
     <div id="search-results"></div>
 </div>
 
-<table class="admin-table">
+<table class="admin-table wp-list-table widefat fixed striped table-view-list pages">
     <tr>
         <td>
             <h4><?php echo __('Title', 'srp'); ?></h4>
